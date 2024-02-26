@@ -12,11 +12,10 @@ Here are some important resources to be aware of:
 ## Getting Started 
 - If you are interested in contributing to a specific product that we host, but you're not sure where to get started be sure to checkout the "Open Issues" section for that product. If you are not extremely experienced with open source contributions, make sure to be on the lookout for bug reports / issues that are tagged with the "Good First Issue" flags.
 
-
 ## Did you find a bug? 🐛
-- Do not open up a GitHub issue if the bug is a security vulnerability in one of our products, and instead to refer to our [Security Policy](../SECURITY.md).
+- Do not open up a GitHub issue if the bug is a security vulnerability in one of our products, and instead refer to our [Security Policy](../SECURITY.md).
 
-- Ensure the bug was not already reported by searching on GitHub under "Issues" for that product. If bug has already been reported, please feel free to add to the discussion.
+- Ensure the bug was not already reported by searching on GitHub under "Issues" for that product. If the bug has already been reported, please feel free to add to the discussion.
 
 - If you're unable to find an open issue addressing the problem, open a new one. Use the appropriate reporting template in the "Issues" tab for that particular product. Be sure to include a title and clear description, as much relevant information as possible, and a code sample or an executable test case demonstrating the expected behavior that is or is not occurring.
 
@@ -28,13 +27,15 @@ Here are some important resources to be aware of:
 - A member from the core Open Source Labs team will give feedback or merge the PR.
 
 ## Do you intend to add a new substantial feature or change an existing one?🦸💻
-1. Search existing issues to see if feature is already being discussed/worked on.
-1. If the feature is not being already worked on, then we ask that you open a feature request issue first to discuss with the maintainers whether the feature is desired - and the design of those features. This helps save time for both the maintainers and the contributors and means that features can be shipped faster. The issue should be confirmed by a framework team member before building out a feature in a pull request.
+1. Search existing issues and discussions to see if feature is already being discussed and/or worked on.
 
-## Do you have questions about the source code?
+1. If the feature is not being already worked on, then we ask that you open a "Feature Request" issue first to discuss with the product maintainers whether the feature is desired - and the design of those features. This helps save time for both the maintainers and the contributors and means that features can be shipped faster. The issue should be confirmed by a maintainer before building out a feature in a pull request.
+
+## Questions about the source code? 🙋🧑‍💻🤔
 - Ask any question about our products or their source code as a discussions topic.
 
-## Do you want to contribute to our products' documentation? 📚
+## Want to contribute to our product's documentation? 📚
 - Feel free to open an issue using the "Documentation" template, or if you are feeling confident about the update make a PR and it will be reviewed by a core member of the team.
 
-Open Source Labs is a volunteer effort. We encourage you to pitch in and join the team!🙂
+---
+__Open Source Labs is a volunteer effort. We encourage you to pitch in and join the team!🙂__
