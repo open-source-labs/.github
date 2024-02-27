@@ -14,7 +14,7 @@ __If so, checkout our [Contribution Guidelines](../docs/CONTRIBUTING.md), and jo
 ## Hackathons
 Would you like to experience the thrill of a hackathon as you engage in rapid and collaborative engineering for a chance of winning a prize? At OSLabs, we co-host hackathons with partner organizations that rely on open source for the success of their developer tools. Subscribe to our newsletter and be the first one to know about our upcoming hackathons!
 
-[Subscribe for updates](https://www.opensourcelabs.io/contact)
+[Subscribe for Updates](https://www.opensourcelabs.io/contact)
 
 ## Partner with OSLabs
 We are always open to partner with organizations that share our mission of accelerating open source innovation for a more transparent and collaborative technological world. 
