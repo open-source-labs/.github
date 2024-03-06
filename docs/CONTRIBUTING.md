@@ -10,7 +10,7 @@ Here are some important resources to be aware of:
 - [Funding](../FUNDING.md)
 
 ## Getting Started 
-- If you are interested in contributing to a specific product that we host, but you're not sure where to get started be sure to checkout the "Open Issues" section for that product. If you are not extremely experienced with open source contributions, make sure to be on the lookout for bug reports / issues that are tagged with the "Good First Issue" flags.
+- If you are interested in contributing to a specific product that we host, but you're not sure where to get started be sure to checkout the "Issues" section for that product. If you are not extremely experienced with open source contributions, make sure to be on the lookout for bug reports / issues that are tagged with the "Good First Issue" flags.
 
 ## Did you find a bug? 🐛
 - Do not open up a GitHub issue if the bug is a security vulnerability in one of our products, and instead refer to our [Security Policy](../SECURITY.md).
