@@ -3,7 +3,7 @@
 https://conventionalcommits.org
 
 👉 Please make sure to follow our Contributing guidelines:
-https://github.com/community-health-demo/.github/blob/main/CONTRIBUTING.md
+https://github.com/open-source-labs/.github/blob/main/docs/CONTRIBUTING.md
 -->
 
 ## 🔗 Linked issue
@@ -19,7 +19,8 @@ https://github.com/community-health-demo/.github/blob/main/CONTRIBUTING.md
 <!-- Put an `x` in all the boxes that apply. -->
 <!-- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
-- [ ] I've followed the [Contributing guidelines](https://github.com/community-health-demo/.github/blob/main/CONTRIBUTING.md)
+- [ ] I've followed the [Contributing guidelines](https://github.com/open-source-labs/.github/blob/main/docs/CONTRIBUTING.md)
+
 - [ ] I've titled my PR according to the [Conventional Commits spec](https://conventionalcommits.org)
 - [ ] I've linked an open issue
 - [ ] I've added tests that fail without this PR but pass with it
